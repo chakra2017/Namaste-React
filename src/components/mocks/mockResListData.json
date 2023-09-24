@@ -1090,7 +1090,7 @@
             "gridElements": {
               "infoWithStyle": {
                 "@type": "type.googleapis.com/swiggy.presentation.food.v2.FavouriteRestaurantInfoWithStyle",
-                "restaurants": [clea
+                "restaurants": [
                   {
                     "info": {
                       "id": "65797",
